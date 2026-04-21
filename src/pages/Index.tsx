@@ -200,12 +200,12 @@ const Index = () => {
                   <div className="flex items-center justify-center gap-3">
                     <div className="flex flex-col items-center gap-1">
                       <div className="w-12 h-12 rounded-full bg-wedding-gray border-2 border-accent/40 shadow-md" />
-                      <span className="text-xs text-muted-foreground">Gray</span>
+                      <span className="text-xs text-muted-foreground">Beige</span>
                     </div>
                     <span className="text-accent">&amp;</span>
                     <div className="flex flex-col items-center gap-1">
                       <div className="w-12 h-12 rounded-full bg-wedding-gray-dark border-2 border-accent/40 shadow-md" />
-                      <span className="text-xs text-muted-foreground">Charcoal</span>
+                      <span className="text-xs text-muted-foreground">Black</span>
                     </div>
                   </div>
                 </div>
